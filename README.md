@@ -1,4 +1,4 @@
-# Proyecto de Investigación Geológica con Operadores Tensoriales Diferenciables
+# Operadores tensoriales diferenciables en el problema inverso aplicado a la geología
 
 ## Descripción
 

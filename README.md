@@ -16,5 +16,4 @@ El repositorio está organizado de la siguiente manera:
 
 - `data/`: Contiene los datos utilizados en el proyecto, incluyendo archivos de datos de sondeo y parámetros hidrogeológicos.
 - `notebooks/`: Jupyter notebooks que muestran el proceso de análisis, estimación de parámetros y construcción de modelos.
-- `scripts/`: Scripts en Python para la implementación de los operadores tensoriales diferenciables y la resolución de problemas inversos.
 - `results/`: Resultados obtenidos de las diferentes etapas del proyecto, incluyendo gráficos, tablas y modelos finales.
